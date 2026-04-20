@@ -23,12 +23,12 @@
 
 ## 📂 项目结构
 .
-├── notebook/
-│   └── 手写transformer.ipynb   # 主实现代码（模型 + 训练 + 推理）
-├── images/                     # README 与 notebook 用图
-├── data/
-│   └── fra-eng.zip             # 英法翻译数据集
-├── README.md
+├── notebook/  
+│   └── 手写transformer.ipynb   # 主实现代码（模型 + 训练 + 推理）  
+├── images/                     # README 与 notebook 用图  
+├── data/  
+│   └── fra-eng.zip             # 英法翻译数据集  
+├── README.md  
 
 ## ⚙️ 环境依赖
 

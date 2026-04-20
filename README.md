@@ -40,7 +40,7 @@
 安装依赖：
 
 ```bash
-pip install torch numpy matplotlib
+pip install torch numpy matplotlib  
 
 ## 🧪 实验结果
 在小规模数据上训练后，模型能够完成基本翻译任务：  

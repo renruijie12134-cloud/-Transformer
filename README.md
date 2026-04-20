@@ -38,8 +38,6 @@
 - Matplotlib（可选）
 
 安装依赖：
-
-```bash
 pip install torch numpy matplotlib  
 
 ## 🧪 实验结果
